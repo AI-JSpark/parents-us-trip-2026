@@ -1,0 +1,93 @@
+{
+  "id": "phoenix",
+  "name": "Phoenix · 방문 미정",
+  "subtitle": "방문 확정 후 참고할 사막 도시 안내",
+  "image": "assets/phoenix.svg",
+  "intro": "Phoenix 방문은 아직 확정되지 않았습니다. 일정이 잡히면 야외 사막 경관과 실내 박물관을 섞어 무리 없이 계획하세요. 도시권이 넓어 명소 사이 이동시간과 차량·대중교통 여건을 먼저 확인하는 것이 중요합니다.",
+  "attractions": [
+    {
+      "title": "Desert Botanical Garden · 사막 식물원",
+      "description": "Papago Park의 붉은 바위 지형 가까이에 있는 식물원입니다. 소노란 사막 식물과 선인장, 계절 꽃, 야외 예술을 산책로에서 볼 수 있습니다. 건조한 기후에서 식물이 살아가는 방식과 보전 활동을 살펴보기 좋은 장소입니다.",
+      "plan": "야외 관람이므로 더운 시기에는 이른 시간대를 고려하고 그늘에서 자주 쉬세요. 정원 코스 전체를 걸을 필요는 없습니다. 개장시간·특별 전시·입장권을 공식 사이트에서 확인하세요."
+    },
+    {
+      "title": "Heard Museum · 원주민 예술과 문화",
+      "description": "미국 남서부 원주민 공동체와 예술가들의 역사·문화를 소개하는 박물관입니다. 공예품, 회화, 조각과 현대 작품이 함께 전시되어 지역 문화를 여러 관점에서 배울 수 있습니다. 실내 중심이라 야외 활동을 줄이고 싶은 날에 알맞습니다.",
+      "plan": "관심 있는 전시를 두세 개 먼저 골라 관람하고 중간에 앉아 쉴 시간을 두세요. 문화와 작품을 존중하고 촬영 제한 표지를 따르세요. 운영일과 티켓을 공식 안내에서 확인하세요."
+    },
+    {
+      "title": "Papago Park · Hole-in-the-Rock",
+      "description": "붉은 사암 언덕과 사막 식생으로 유명한 공원입니다. Hole-in-the-Rock은 바위 틈의 지질 지형과 주변 풍경을 볼 수 있는 짧은 산책 코스입니다. 주변에 Phoenix Zoo와 Desert Botanical Garden도 있어 한 구역 일정으로 묶기 좋습니다.",
+      "plan": "노면이 고르지 않고 경사·계단이 있을 수 있습니다. 튼튼한 신발을 신고 가장 더운 시간은 피하세요. 발 디딜 곳을 확인하고 무리해서 높은 바위 위로 오르지 마세요."
+    },
+    {
+      "title": "Musical Instrument Museum · 세계의 음악",
+      "description": "세계 여러 지역의 악기와 음악 문화를 전시하는 대형 실내 박물관입니다. 악기뿐 아니라 연주 영상과 소리도 접할 수 있어 다양한 문화를 살펴보기 좋습니다. 한낮 야외 관광을 줄이고 싶은 날의 중심 일정으로 고려하세요.",
+      "plan": "전시 규모가 크므로 관심 있는 지역을 정하고 중간에 쉬세요. 공연이나 특별 프로그램은 별도 일정일 수 있으니 공식 달력을 확인하세요."
+    },
+    {
+      "title": "Taliesin West · 사막 속 건축",
+      "description": "Scottsdale에 있는 건축가 Frank Lloyd Wright의 겨울 거주지이자 작업 공간입니다. 사막의 빛·지형·재료를 건축에 연결한 방식을 투어로 볼 수 있습니다. Phoenix 중심부와 떨어져 있어 이동시간이 별도로 필요합니다.",
+      "plan": "가이드 투어 시간과 예약 조건, 야외 이동·계단 여부를 확인한 뒤 일정을 넣으세요. 투어 시간에 맞춰 도착할 수 있도록 차량 이동시간을 넉넉히 잡으세요."
+    }
+  ],
+  "routes": [
+    {
+      "title": "첫 방문 추천 · 실내와 가까운 야외를 섞는 하루",
+      "description": "오전 Heard Museum → 점심과 휴식 → 기온과 컨디션이 괜찮으면 Papago Park의 짧은 전망 코스 또는 Desert Botanical Garden 중 한 곳. 야외 명소 두 곳을 모두 넣기보다 한 곳을 천천히 둘러보고 에어컨이 있는 실내에서 쉬세요."
+    },
+    {
+      "title": "방문 2일차 · 식물원과 현지 음식",
+      "description": "이른 시간 Desert Botanical Garden → 점심에 Sonoran 음식 → 오후 숙소에서 휴식. 더위가 강하거나 컨디션이 좋지 않으면 야외 방문을 생략하고 실내 일정으로 바꾸세요."
+    },
+    {
+      "title": "차량 없이 도심 중심으로",
+      "description": "Valley Metro Rail이 지나는 Heard Museum, Phoenix Art Museum, Downtown 구역을 중심으로 계획하세요. 공항에서는 44th Street/Washington 역과 PHX Sky Train 연결을 확인하고, 역부터 각 명소까지의 도보 거리와 대기시간을 확인하세요."
+    }
+  ],
+  "food": [
+    "Sonoran hot dog: 빵에 감싼 핫도그에 베이컨, 콩, 토마토, 양파, 마요네즈와 치즈 등을 올리는 지역 음식입니다. 토핑이 많고 소스가 흐를 수 있어 냅킨을 준비하세요. 가게마다 재료가 다릅니다.",
+    "Sonoran 멕시칸 음식: 멕시코 북부와 애리조나의 식문화가 만나는 음식입니다. 타코·부리토도 가게마다 양념과 곁들임이 다르니 매운 정도와 고수 포함 여부를 물어보세요.",
+    "매운맛을 덜 원하면 ‘mild’, 양념을 따로 받고 싶으면 ‘on the side’라고 말할 수 있습니다. 메뉴 사진을 보여 달라고 요청해도 됩니다.",
+    "야외 명소 주변은 식사 선택지가 적을 수 있습니다. 물과 간단한 간식을 준비하고 공원 안 음식·음료 반입 규정을 확인하세요."
+  ],
+  "tips": [
+    "Phoenix는 햇볕과 열기가 강한 날이 많습니다. 더운 시기에는 야외 활동을 아침으로 옮기고 그늘·에어컨 공간에서 자주 쉬세요. 두 분의 컨디션을 우선해 무리하지 마세요.",
+    "물은 목이 마를 때까지 기다리지 말고 휴식할 때 함께 마시세요. 밝고 가벼운 옷, 챙 있는 모자, 선크림과 편한 신발을 준비하세요.",
+    "더위로 어지럽거나 메스껍거나 심하게 지치면 야외 활동을 멈추고 시원한 실내로 이동해 도움을 요청하세요. 의식이 흐려지거나 쓰러지는 등 위급하면 911에 연락하세요.",
+    "사막 산책로는 흙·모래·바위가 섞여 발목을 삐기 쉽습니다. 발을 잘 잡아 주는 신발을 신고 정해진 길을 벗어나지 마세요.",
+    "명소 간 거리가 멉니다. 하루 장소를 같은 방향으로 묶고 주차비와 주차장 위치를 확인하세요.",
+    "Valley Metro Rail은 Phoenix, Tempe, Mesa를 연결하며 일부 박물관·경기장 주변에 정차합니다. 모든 명소가 역 가까이에 있지는 않으므로 역에서의 도보 구간도 확인하세요.",
+    "운임과 운행 간격은 바뀔 수 있으니 출발 직전 Valley Metro 공식 시간표와 지불 방식을 확인하세요.",
+    "야외 명소는 날씨·행사로 운영 구역이 달라질 수 있습니다. 방문 당일 시설 공지와 일기예보를 확인하세요.",
+    "Phoenix 방문은 미정이므로 이 안내는 후보 목록입니다. 방문을 확정한 뒤 숙소·항공·차량 위치에 맞춰 일정을 줄여 주세요."
+  ],
+  "checklist": [
+    "날씨와 NWS HeatRisk 확인",
+    "물·모자·선크림·걷기 편한 신발 준비",
+    "실내 휴식 장소와 주차 위치 확인",
+    "예약 시간·휴관일·시설 공지 확인"
+  ],
+  "source": [
+    {
+      "title": "Visit Phoenix · 주요 명소",
+      "url": "https://www.visitphoenix.com/things-to-do/attractions/"
+    },
+    {
+      "title": "Visit Phoenix · Papago Park",
+      "url": "https://www.visitphoenix.com/sonoran-desert/parks/papago-park/"
+    },
+    {
+      "title": "Visit Phoenix · 대중교통",
+      "url": "https://www.visitphoenix.com/plan-a-trip/transportation/public-transportation/"
+    },
+    {
+      "title": "National Weather Service Phoenix · 더위 안전",
+      "url": "https://www.weather.gov/psr/heat"
+    },
+    {
+      "title": "Visit Phoenix · 현지 음식",
+      "url": "https://www.visitphoenix.com/stories/post/eat-like-a-local-in-phoenix/"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "philly",
+  "name": "Philadelphia",
+  "subtitle": "미국 독립의 역사와 필라델피아 맛",
+  "image": "assets/philly.svg",
+  "intro": "Philadelphia는 미국 독립과 헌법의 역사 현장이 모여 있는 도시입니다. Old City의 Independence National Historical Park를 중심으로 둘러보고, Reading Terminal Market에서 지역 음식을 맛보는 하루 코스가 첫 방문에 알맞습니다.",
+  "attractions": [
+    {
+      "title": "Independence Hall · 독립선언서와 헌법의 현장",
+      "description": "1776년 독립선언서가 채택되고 1787년 헌법이 논의된 Pennsylvania State House입니다. 미국 건국의 장소를 실제 건물과 전시를 통해 만날 수 있습니다.",
+      "plan": "투어 티켓과 입장 방식은 날짜·시즌에 따라 달라질 수 있습니다. 공식 NPS 안내에서 예약 필요 여부를 확인하고, 보안 검색을 위해 예약시간보다 여유 있게 도착하세요."
+    },
+    {
+      "title": "Liberty Bell Center · 자유의 종",
+      "description": "균열이 있는 종뿐 아니라 노예제 폐지와 시민권·자유의 상징으로 사용된 과정을 설명하는 전시도 볼 수 있습니다. 전시를 읽고 역사적 맥락을 이해하면 단순히 사진을 찍는 것보다 의미가 깊습니다.",
+      "plan": "입장권이 필요하지 않은 날에도 보안 검색과 대기가 있을 수 있습니다. 안내판을 읽고 천천히 관람할 시간을 남겨 두세요."
+    },
+    {
+      "title": "Independence Visitor Center · 방문의 시작점",
+      "description": "6th와 Market Streets 부근에 있는 공식 방문자 센터입니다. 공원 지도, 당일 개방 시설, 티켓과 화장실 정보를 확인할 수 있습니다. 어디부터 볼지 막막할 때 첫 장소로 유용합니다.",
+      "plan": "당일 동선과 시설 개방 여부를 먼저 확인한 뒤 Independence Hall과 Liberty Bell을 방문하세요. 운영시간과 안내 데스크 정보는 방문 당일 공식 페이지에서 확인하세요."
+    },
+    {
+      "title": "Reading Terminal Market · 실내 음식 시장",
+      "description": "1893년에 문을 연 시장으로 80곳이 넘는 상점과 식당에서 다양한 음식을 만날 수 있습니다. 필라델피아 샌드위치뿐 아니라 Pennsylvania Dutch 음식, 빵, 아시아·중동 요리와 디저트 등 선택지가 넓습니다.",
+      "plan": "주소는 51 N. 12th Street입니다. 점심때는 붐비고 좌석 찾기가 어려울 수 있어 이른 시간에 가는 편이 편합니다. 일행과 나뉘면 만날 출입구를 정해 두세요."
+    },
+    {
+      "title": "Philadelphia Museum of Art · 미술관과 계단",
+      "description": "Benjamin Franklin Parkway 끝자락의 미술관입니다. Rocky 계단 장면으로 알려져 있지만 내부에도 다양한 시대의 작품이 전시되어 있습니다. 계단만 보고 올지 전시까지 볼지에 따라 필요한 시간이 달라집니다.",
+      "plan": "긴 계단이 부담되면 무리하지 말고 아래쪽에서 풍경을 즐기세요. 접근 가능한 입구와 미술관 운영일·입장 정보는 공식 페이지에서 확인하세요."
+    }
+  ],
+  "routes": [
+    {
+      "title": "Old City 핵심 코스 · 반나절",
+      "description": "Independence Visitor Center에서 지도와 당일 안내 확인 → Independence Hall 예약 투어 → Liberty Bell Center → 점심과 휴식. 역사 시설의 검색·대기 시간이 있으므로 이 구역에 반나절을 배정하는 편이 안전합니다."
+    },
+    {
+      "title": "시장과 도심 산책 · 반나절",
+      "description": "오전 Reading Terminal Market에서 아침이나 이른 점심 → 시청 주변 산책 → 체력과 날씨가 괜찮으면 Benjamin Franklin Parkway의 미술관 계단 쪽으로 이동. 구간이 길면 차량으로 이동해 걷는 거리를 줄이세요."
+    },
+    {
+      "title": "Leonia에서 당일치기",
+      "description": "출발 전에 주차장과 방문자 센터를 확인 → 역사 지구 방문 → Reading Terminal Market에서 식사 → 시간이 남으면 미술관 계단 또는 강변 중 한 곳만 추가. 뉴저지 귀가 정체와 일몰을 고려해 복귀 시각을 정해 두세요."
+    }
+  ],
+  "food": [
+    "Cheesesteak: 얇게 썬 소고기와 녹인 치즈를 긴 롤에 넣은 대표 메뉴입니다. 치즈는 provolone, American 또는 Cheez Whiz를 고를 수 있고, 볶은 양파를 원하면 ‘with onions’라고 말합니다. 한 개가 넉넉할 수 있어 나눠 먹을 수 있는지 확인하세요.",
+    "Hoagie: 고기·치즈·야채를 긴 빵에 넣은 차가운 샌드위치입니다. 양상추·토마토·양파와 오일·식초가 들어갈 수 있어 재료를 확인하세요.",
+    "Roast pork sandwich: 부드러운 돼지고기에 sharp provolone과 시금치 등을 더하는 지역 샌드위치입니다. cheesesteak와 다른 맛을 찾을 때 좋은 선택입니다.",
+    "Soft pretzel: 짭짤하고 쫄깃한 구운 프레첼로 시장이나 베이커리에서 간식으로 사기 쉽습니다. 겨자와 함께 나오는지 확인하세요.",
+    "Reading Terminal Market에는 Pennsylvania Dutch 음식, 로스트 포크, 디저트 등 다양한 선택이 있습니다. 각자 다른 메뉴를 사서 나눠 맛보는 재미가 있습니다."
+  ],
+  "tips": [
+    "공원은 보통 매일 열리지만 건물별 시간과 공휴일 휴관이 다를 수 있습니다. Thanksgiving, Christmas, New Year’s Day 운영에 유의하세요.",
+    "Independence Hall 투어는 티켓이나 시간 예약이 필요할 수 있습니다. 공식 NPS 예약 페이지를 확인하고 보안 검색 시간을 잡으세요.",
+    "방문자 센터에서 그날 개방 시설과 화장실 위치를 확인하면 닫힌 시설을 찾아 헤매는 일을 줄일 수 있습니다.",
+    "역사 지구에는 벽돌·돌길과 경계석이 섞여 있습니다. 쿠션 있는 신발을 신고 계단에서는 천천히 이동하세요.",
+    "Leonia와 Philadelphia 사이의 고속도로 정체와 도심 주차가 변수입니다. 복귀 시간을 넉넉히 잡고 주차 위치를 휴대폰에 저장하세요.",
+    "Reading Terminal Market은 넓고 혼잡할 수 있습니다. 두 분이 따로 메뉴를 살 때 만날 좌석이나 출입구를 미리 정하세요.",
+    "‘wit’은 양파를 넣는다는 뜻으로 자주 쓰입니다. 주문이 어렵다면 메뉴 이름과 양파 유무를 화면에 적어 보여 주세요.",
+    "식당 가격에 세금과 팁이 별도일 수 있습니다. 영수증의 서비스료 포함 여부와 결제 금액을 확인하세요.",
+    "박물관 내부까지 볼 계획이면 같은 날 다른 명소를 적게 넣고 앉아서 쉴 시간을 두세요.",
+    "큰 역사 지구에서는 비슷한 교차로가 많습니다. 귀가 차량 승차 장소와 주차 위치를 메모해 두세요."
+  ],
+  "checklist": [
+    "Independence Hall 투어 예약·티켓 확인",
+    "당일 개방 시설과 보안 검색 안내 확인",
+    "차량 주차 위치와 복귀 예상시간 공유",
+    "시장 안에서 만날 출입구 정하기"
+  ],
+  "source": [
+    {
+      "title": "NPS · Independence National Historical Park",
+      "url": "https://home.nps.gov/inde/planyourvisit/basicinfo.htm"
+    },
+    {
+      "title": "NPS · 운영 시간과 휴관일",
+      "url": "https://www.nps.gov/inde/planyourvisit/hours.htm"
+    },
+    {
+      "title": "Visit Philadelphia · Reading Terminal Market",
+      "url": "https://www.visitphilly.com/things-to-do/food-drink/reading-terminal-market/"
+    },
+    {
+      "title": "Visit Philadelphia · 필라델피아 대표 음식",
+      "url": "https://www.visitphilly.com/articles/philadelphia/iconic-philadelphia-foods-must-have-philly-eats/"
+    }
+  ]
+}

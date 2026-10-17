@@ -1,0 +1,91 @@
+{
+  "id": "nyc",
+  "name": "New York City",
+  "subtitle": "명소·먹거리·이동 팁",
+  "image": "assets/nyc.svg",
+  "intro": "뉴욕은 명소가 넓게 퍼져 있어 하루에 모두 보려 하면 걷는 양이 많아집니다. Midtown, Central Park, Lower Manhattan처럼 한 구역씩 골라 여유 있게 둘러보세요. 이동과 대기, 쉬는 시간을 일정에 따로 넣는 것이 편안한 여행의 핵심입니다.",
+  "attractions": [
+    {
+      "title": "Central Park · 도심 속 큰 공원",
+      "description": "맨해튼 한가운데 펼쳐진 843에이커 공원으로 산책길, 호수, 잔디밭, 다리와 조각상이 모여 있습니다. The Mall의 나무길, Bethesda Terrace, Strawberry Fields, Belvedere Castle 등이 잘 알려져 있습니다. 공원이 매우 넓으므로 남쪽이나 중심 구간을 골라 보세요.",
+      "plan": "Conservancy가 소개하는 중심부 산책은 The Mall과 Bethesda Terrace로 이어지는 약 1마일 코스이며 약 1시간입니다. 일부 경사·계단이 있으니 중간에서 돌아와도 괜찮습니다. 화장실과 방문자 센터 위치를 먼저 확인하세요."
+    },
+    {
+      "title": "Statue of Liberty와 Ellis Island",
+      "description": "자유의 여신상과 Ellis Island 이민 박물관을 함께 방문하는 배편 일정입니다. 섬 안의 박물관과 보안 검색까지 포함하면 반나절 이상이 걸릴 수 있습니다. 왕관은 162개 계단을 올라야 하고 엘리베이터가 없으므로 일반 관람과 구분해 계획하세요.",
+      "plan": "섬에 내리는 공식 페리는 Statue City Cruises뿐입니다. 티켓의 시간은 배 출발이 아니라 보안 검색 대기열에 들어가는 시각입니다. 아침 배를 예약하고 가벼운 짐과 편한 신발을 준비하세요. 섬에 도착하면 일행과 헤어졌을 때 만날 장소부터 정하세요."
+    },
+    {
+      "title": "Times Square와 Broadway",
+      "description": "대형 전광판, 극장, 상점과 식당이 모인 Midtown의 대표 구역입니다. 밤에도 밝고 사람이 많아 뉴욕의 활기를 느끼기 좋습니다. 관광객에게 사진이나 기념품을 권하는 경우 원치 않으면 웃으며 지나가면 됩니다.",
+      "plan": "공연을 볼 때는 극장 위치와 입장 시간을 확인하세요. 공연 종료 후 지하철역이나 차량 승차 지점까지 돌아갈 경로를 미리 정해 두세요."
+    },
+    {
+      "title": "Lower Manhattan · 9/11 Memorial 주변",
+      "description": "세계무역센터 부지와 9/11 Memorial, 금융가, Battery Park가 이어지는 남쪽 구역입니다. 추모 공간은 조용하고 엄숙한 장소이므로 안내 표지를 존중해 주세요. 배편 일정과 묶을 수 있지만 박물관 관람까지 더하면 하루가 바빠집니다.",
+      "plan": "기념관·박물관·배편 중 우선순위를 정하세요. 박물관은 입장권과 시간 예약을 확인하고, 추모 공간과 박물관의 주소를 구분해 확인하세요."
+    },
+    {
+      "title": "박물관과 전망대 · 실내 일정",
+      "description": "Metropolitan Museum of Art와 American Museum of Natural History는 규모가 큰 실내 명소입니다. 전망대는 맑은 날 도시 전경을 즐길 수 있지만 바람과 구름에 따라 체감이 다릅니다. 박물관 하나만 선택해도 오래 머물 수 있습니다.",
+      "plan": "보고 싶은 전시를 두세 개 먼저 고르고 중간 휴식을 계획하세요. 운영일, 입장료, 예약과 가방 검사 규정은 각 기관 공식 사이트에서 확인하세요."
+    }
+  ],
+  "routes": [
+    {
+      "title": "Midtown 반나절",
+      "description": "Grand Central Terminal 주변 → 점심 → Times Square와 Broadway를 짧게 둘러보기 → 카페나 숙소에서 휴식. 전망대나 공연을 더한다면 한 가지만 추가해 걷는 양을 조절하세요."
+    },
+    {
+      "title": "Central Park 여유 산책",
+      "description": "남쪽 입구에서 The Mall → Bethesda Terrace → 가까운 출구로 돌아오기. 약 1마일 코스에도 일부 경사·계단이 있으니 두 분의 컨디션에 맞춰 중간에 돌아오세요."
+    },
+    {
+      "title": "Lower Manhattan 하루 코스",
+      "description": "아침 예약 페리 → Liberty Island와 Ellis Island → 점심·휴식 → Battery Park. 9/11 Museum까지 같은 날 더하면 빡빡할 수 있어 우선순위를 정하세요."
+    }
+  ],
+  "food": [
+    "뉴욕 피자: 한 조각 주문이 가능한 가게가 많습니다. 조각이 큰 편이므로 처음엔 한 조각씩 주문하세요.",
+    "베이글: 크림치즈·달걀·훈제연어 등을 넣어 아침으로 먹습니다. ‘plain’은 속재료 없는 기본 빵일 수 있습니다.",
+    "델리 샌드위치: 빵·고기·치즈·야채를 선택하는 방식이 흔합니다. 낯선 메뉴는 사진이나 기본 메뉴를 가리켜 주문하세요.",
+    "Chinatown, Koreatown, Queens 등 구역마다 음식 문화가 다릅니다. 한 구역에서 식사와 산책을 묶고 이동시간을 확인하세요.",
+    "세금과 팁이 별도로 적히는 경우가 많습니다. 영수증의 서비스료 포함 여부와 결제 화면을 확인하세요."
+  ],
+  "tips": [
+    "지하철은 역 이름뿐 아니라 Uptown/Downtown 방향, 노선과 종착지를 함께 확인하세요.",
+    "MTA의 OMNY 리더는 무접촉 카드나 모바일 결제를 받습니다. 두 분이 각자 결제수단을 준비하세요. 요금과 정책은 MTA의 최신 안내를 확인하세요.",
+    "계단이 많은 역도 있습니다. 엘리베이터가 필요하면 출발 전 MTA 접근성 안내에서 역 상태를 확인하고 차량 이동을 대안으로 두세요.",
+    "보도 한가운데 멈춰 휴대폰을 보지 말고 건물 가장자리에서 지도를 확인하세요. 역 출구가 여럿이면 교차로 이름으로 방향을 잡으세요.",
+    "보행 신호를 따르고 우회전 차량과 자전거를 살피세요. 신호가 켜져도 주변 차량이 멈췄는지 확인하세요.",
+    "휴대폰을 손에 든 채 차도 가장자리에서 사용하지 말고 여권·귀중품은 몸 가까이 나누어 보관하세요.",
+    "공연·박물관·페리는 시간 지정 티켓이 필요할 수 있습니다. 예약 확인서를 오프라인으로 저장하거나 종이로 준비하세요.",
+    "공원과 섬에서는 화장실·앉을 곳 위치를 기억하고 일행과 다시 만날 장소를 정하세요.",
+    "하루 큰 명소는 2~3개 정도로 제한하세요. 이동·검색·식사 대기만으로도 시간이 걸립니다.",
+    "가을 저녁은 바람이 찰 수 있습니다. 얇은 겉옷과 발이 편한 신발을 준비하세요."
+  ],
+  "checklist": [
+    "숙소 주소 영어 표기 저장",
+    "페리·공연·박물관 예약 확인서 저장",
+    "각자 교통 결제수단 준비",
+    "물·편한 신발·얇은 겉옷 준비"
+  ],
+  "source": [
+    {
+      "title": "Central Park Conservancy · 공원 지도와 방문 안내",
+      "url": "https://www.centralparknyc.org/locations"
+    },
+    {
+      "title": "Central Park Conservancy · 중심부 산책 코스",
+      "url": "https://www.centralparknyc.org/activities/guides/the-heart-of-central-park"
+    },
+    {
+      "title": "NPS · 자유의 여신상 방문 계획",
+      "url": "https://www.nps.gov/stli/planyourvisit/index.htm"
+    },
+    {
+      "title": "MTA · OMNY 안내",
+      "url": "https://www.mta.info/fares/omny"
+    }
+  ]
+}
